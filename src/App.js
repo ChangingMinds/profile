@@ -19,6 +19,15 @@ class App extends Component {
           <img src={mongodbLogo} alt='' />
           <img src={expressLogo} alt='' />
           <img src={css3Logo} alt='' />
+            <div className='name'>
+              <h1>Benedict Ng-Wai</h1>
+                <div className='title'>
+                  <p>Web Developer</p>
+                    <div className='headers'>
+                      <p>about projects contact</p>
+                    </div>
+                </div>
+            </div>
       </div>
     );
   }
